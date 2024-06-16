@@ -1,0 +1,1 @@
+﻿Gerber and NC Drill files directory
