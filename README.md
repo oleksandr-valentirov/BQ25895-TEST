@@ -1,0 +1,1 @@
+﻿Altium Designer PCB Project Main Directory
